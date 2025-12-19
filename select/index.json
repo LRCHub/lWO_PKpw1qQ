@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "下北沢のギターロック",
+  "base_artist": "3markets[ ]",
+  "createdAt": "2025-12-19T04:58:51.947351Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "下北沢のギターロック",
+      "artist": "3markets[ ]",
+      "has_synced": false,
+      "path": "select/pl_01_下北沢のギターロック_3markets[_].txt"
+    }
+  ]
+}
